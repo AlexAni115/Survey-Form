@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+}
+td{
+    align-items: center !important;
+}
+table{
+  width: 80vw !important;
+  
+}
+
+button{
+    background-color: rgb(113, 104, 104);
+}
+.master{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.checked {
+    color: orange;
+  }
+  .fa-star:hover{
+   cursor: pointer;
+  }
